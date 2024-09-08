@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "zhaoxin.png"
   name             : "Zhao Xin"
-  pronouns         : "she"  
+  pronouns         : # "she"  
   bio              : "A third year phd student majored in SafeAI."
   location         : "Beijing, China"
-  employer         : "University of Chinese Academy of Sciences"
+  employer         : "UCAS"
   uri              : # URL
   email            : "zhaoxin@iie.ac.cn" 
 
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0009-0005-5730-7534"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
