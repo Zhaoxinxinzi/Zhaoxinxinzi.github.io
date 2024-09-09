@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /My Brief Curriculum Vitae/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,54 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Institute of Information Engineering, Chinese Academy of Sciences, 2022-2027 (expected)
+* B.S. in School of Information Science and Technology, University of Science and Technology of China, 2018-2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2022 - Now: Research Assistant
+  * Institute of Information Engineering, Beijing, China
+  * Duties includes: 1. Design more efficient MPC protocols for diffusion model sampling. 2. Apply attack and defense methods to image content generation.
+  * Advisor: Prof.Xiaojun Chen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2022 - Aug 2022: Junior Algorithm Engineer
+  * iFLYTEK, Anhui, China
+  * Duties included: 1. Design algorithms for quantized graph neural networks. 2. Check for leaks and fix bugs for algorithms.
+  * Supervisor: Wenjun Yao
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun 2021 - Sep 2021: Research Assistant
+  * Tsinghua University, Beijing, China
+  * Duties included: Research on network attack and defense.
+  * Advisor: Prof.Hai Wan
+ 
+* Sep 2020 - June 2022: Research Assistant
+  * University of Science and Technology of China, Anhui, China
+  * Duties included: 1. Collect and label datasets. 2. Understand and exploit face micro-expression recognition tasks.
+  * Advisor: Prof.Tong Xu
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+
+Honors and Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* First prize in Privacy-Preserving Computing Hackathon, 2022
+* Meritorious Winner in Mathematical Contest In Modeling Certificate of Achievement(MCM, Top 10%), 2021
+* Meritorious Winner in ShuWei Cup (IMCM, Top 10%), 2020
+* First prize in Mathematics competition for College Students (Top 20%), 2020
+* Talent Student Gold Scholarship of USTC Class 1(Top 3%), 2019
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
